@@ -1,4 +1,4 @@
-# day-1-vue
+# Vovk Kseniia | Lava
 
 ## Project setup
 ```
